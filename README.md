@@ -20,10 +20,6 @@
 <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MyBatis-252525?style=for-the-badge&logoColor=white">
 
-**프레임워크**    
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-
 **인증**    
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
 
