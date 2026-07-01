@@ -59,6 +59,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 
+**🖨️ 템플릿 엔진 | Template Engine**  
+<br>
+![JSP](https://img.shields.io/badge/JSP-E24A1F?style=for-the-badge&logo=java&logoColor=white)
+
 **🤝 협업 | Cooperation**  
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
