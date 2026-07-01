@@ -4,6 +4,7 @@
 * 🎂 **Age:** 24
 * 📍 **Location:** Busan, South Korea
 * 🎓 **Department:** Software Development
+* ✉️ **E-mail**: gimingng2311@naver.com
 
 <br>
 
