@@ -1,5 +1,7 @@
 # 👤 MY INFO 👤  
 
+<br>
+
 * 📅 **Birth:** 2002.06.14
 * 🎂 **Age:** 24
 * 📍 **Location:** Busan, South Korea
@@ -13,6 +15,8 @@
 <br>
 
 # 🔥 TECH STACK 🔥
+
+<br>
 
 **💻 프론트엔드 | Frontend**      
 <br>
