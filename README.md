@@ -1,4 +1,4 @@
-# 👤 MY INFO
+# 👤 MY INFO 👤  
 
 * 📅 **Birth:** 2002.06.14
 * 🎂 **Age:** 24
