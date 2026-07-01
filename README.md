@@ -66,5 +66,5 @@
 <br>
 
 # 📁 PORTFOLIO 📁   
-* [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KnagGiMin/Music_is_my_life)
+* [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KnagGiMin/Music-is-my-life)
 * [**ReviewPlus 2.0 (영화 리뷰 웹 서비스)**](https://github.com/KnagGiMin/ReviewPlus2.0PRJ)
