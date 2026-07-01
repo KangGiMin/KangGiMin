@@ -2,11 +2,11 @@
 
 <br>
 
-* 📅 **Birth:** 2002.06.14
-* 🎂 **Age:** 24
-* 📍 **Location:** Busan, South Korea
-* 🎓 **Department:** Software Development
-* ✉️ **E-mail**: gimingng2311@naver.com
+* 📅 **Birth:** <br> 2002.06.14 
+* 🎂 **Age:** <br> 24
+* 📍 **Location:** <br> Busan, South Korea
+* 🎓 **Department:** <br> Software Development
+* ✉️ **E-mail**: <br> gimingng2311@naver.com
 
 <br>
 
