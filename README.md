@@ -1,4 +1,4 @@
-# 🔥 SKILLS & TECH STACK 🔥
+# 🔥 TECH STACK 🔥
 <hr>
 
 **프론트엔드**    
