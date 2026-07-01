@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/JPA%20(Hibernate)-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 <img src="https://img.shields.io/badge/MYBATIS-252525?style=for-the-badge&logoColor=white">
 
-**인증 | Certification**    
+**인증 | Auth**      
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20Web%20Tokens&logoColor=white">
 
 **데이터 분석 & 머신러닝 | Data Analyze & Machine Learning**    
