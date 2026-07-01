@@ -1,3 +1,9 @@
+# 👤 My Info 👤
+<hr>
+**Birth**:   2002.06.14  
+**age**:   24
+<hr>
+
 # 🔥 TECH STACK 🔥
 <hr>
 
