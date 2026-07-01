@@ -1,13 +1,14 @@
-# 👤 My Info  
+# 👤 MY INFO
 
 * 📅 **Birth:** 2002.06.14
 * 🎂 **Age:** 24
 * 📍 **Location:** Busan, South Korea
 * 🎓 **Department:** Software Development
 
-
 <br>
-<hr>
+
+---
+
 <br>
 
 # 🔥 TECH STACK 🔥
