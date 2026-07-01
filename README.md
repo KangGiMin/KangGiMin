@@ -1,11 +1,16 @@
-# 👤 My Info 👤
+# 👤 My Info
+
+* 📅 **Birth:** 2002.06.14
+* 🎂 **Age:** 24
+* 📍 **Location:** Busan, South Korea
+* 🎓 **Department:** Software Development
+
+
+<br>
 <hr>
-**Birth**:   2002.06.14  
-**age**:   24
-<hr>
+<br>
 
 # 🔥 TECH STACK 🔥
-<hr>
 
 **프론트엔드 | Front-end**      
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
