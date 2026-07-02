@@ -63,6 +63,6 @@
 # 📝 Study Log 📝
 <br>
 
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts)  
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
 <br>
 > 배운 내용들을 복습하고 트러블슈팅 과정을 기록하는 공간입니다.
