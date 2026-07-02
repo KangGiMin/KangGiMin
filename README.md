@@ -60,7 +60,7 @@
 <hr>
 <br>
 
-# 📝 Study Commit 📝
+# 📝 Study Log 📝
 <br>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts)
