@@ -58,3 +58,13 @@
 
 * [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KangGiMin/Music-is-my-life.git)
 * [**ReviewPlus 2.0 (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git)
+<br>
+<hr>
+<br>
+
+# 📝 Study Commit 📝
+<br>
+
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](여기다_네_벨로그_링크_주소_넣기)
+<br>
+> 매일 배운 내용을 복습하고 트러블슈팅 과정을 기록하는 공간입니다.
