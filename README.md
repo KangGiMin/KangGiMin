@@ -60,7 +60,7 @@
 <br>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
- 프로젝트를 개발하며 직면한 에러의 트러블슈팅 과정을 기록하는 공간입니다.
+ ⬅️ 프로젝트를 개발하며 직면한 에러의 트러블슈팅 과정을 기록하는 공간입니다.
 <br>
 <hr>
 
