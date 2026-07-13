@@ -73,9 +73,3 @@
 <hr>
 
 <br>
-
-# 📄 Resume 📄
-<br>
-
-* 🚀 [**사람인(Saramin) 이력서**](https://www.saramin.co.kr/zf_user/member/resume/view/edit_icon_fl/y/res_idx/35256250/mandb_view/n)
-* 💼 [**잡코리아(JobKorea) 이력서**](https://www.jobkorea.co.kr/User/Resume/View?rNo=29529952)
