@@ -1,4 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thank%20you%20for%20visit%20my%20profile!&fontSize=50&animation=fadeIn)
+<br>
+<br>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangGiMin&title=Visitors&color=11B48A&style=flat-square&cacheBust=2026" alt="Hits">
+</p>
 
 <hr>
 <br>
