@@ -1,4 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thank%20you%20for%20visit%20my%20profile!&fontSize=50&animation=fadeIn)
+<br>
+
+# 📚 나의 개발 학습 역사
+
+### 2025.06 ~ 2025.12
+그린컴퓨터아카데미 부산 | Java & Springboot (풀스택) 융합 응용 sw 개발자 양성 과정 훈련 수료
+
+##
+
+### 2026.03 ~ 현재
+한국폴리텍대학교 부산캠퍼스 소프트웨어융합과 재학 중
 
 <hr>
 <br>
