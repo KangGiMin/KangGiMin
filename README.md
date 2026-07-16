@@ -2,7 +2,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKangGiMin&title=Visitors&color=11B48A&style=flat-square&cacheBust=2026" alt="Hits">
+  <img src="https://api.visitorbadge.io/api/visitors?page_id=KangGiMin.github.io&color=11b48a&style=flat-square" alt="Visitors">
 </p>
 
 <hr>
