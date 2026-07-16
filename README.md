@@ -1,7 +1,7 @@
 <hr>
 <br>
 
-# 🔥 Tech Stacks 🔥
+# 🔥 Stacks 🔥
 
 <br>
 
