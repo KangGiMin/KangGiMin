@@ -67,7 +67,7 @@
 <br>
 
 * [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KangGiMin/Music-is-my-life.git)
-* [**ReviewPlus (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git)
+* [**ReviewPlus (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlusPRJ.git)
 * [**ReviewPlus 2.0 (업그레이드 된 영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git)
 <hr>
 <br>
