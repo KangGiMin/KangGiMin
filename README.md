@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thank%20you%20for%20visit%20my%20profile!&fontSize=50&animation=fadeIn)
-<br>
-<br>
+
 <p align="center">
-  <img src="https://api.visitorbadge.io/api/visitors?page_id=KangGiMin.github.io&color=11b48a&style=flat-square" alt="Visitors">
+  ![Visitors](https://api.visitorbadge.io/api/visitors?page_id=KangGiMin.github.io&color=11b48a&style=flat-square)
 </p>
 
-<hr>
-<br>
+---
 
 # 🔥 Stacks 🔥
 
