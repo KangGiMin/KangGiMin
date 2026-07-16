@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thank%20you%20for%20visit%20my%20profile!&fontSize=50&animation=fadeIn)
 
-
+<hr>
+<br>
 
 # 🔥 Stacks 🔥
 
@@ -45,7 +46,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 <br>
-<br>
 <hr>
 <br>
 
@@ -54,7 +54,6 @@
 
 * [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KangGiMin/Music-is-my-life.git)
 * [**ReviewPlus 2.0 (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git)
-<br>
 <hr>
 <br>
 
