@@ -20,10 +20,10 @@
 </p>
 
 <p align="center">
-  <a href="#-이력-"><img src="https://img.shields.io/badge/🏫_이력-11b48a?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="#-기술-스택-"><img src="https://img.shields.io/badge/🔥_기술_스택-007ACC?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/📁_포트폴리오-FFB800?style=for-the-badge&logoColor=white"></a>&nbsp;&nbsp;
-  <a href="#-트러블슈팅-기록-"><img src="https://img.shields.io/badge/📝_트러블슈팅-20C997?style=for-the-badge&logoColor=white"></a>
+  <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🏫_이력-007ACC?style=flat-square"></a>&nbsp;
+  <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술_스택-007ACC?style=flat-square"></a>&nbsp;
+  <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square"></a>&nbsp;
+  <a href="#-트러블슈팅-기록-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square"></a>
 </p>
 
 <hr>
