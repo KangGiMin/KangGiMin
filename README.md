@@ -3,6 +3,12 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="60">
 </p>
+
+<p align="center">
+  <a href="https://github.com/KangGiMin">
+    <img src="https://img.shields.io/badge/FLUTTER_Lover-❤️_Like_My_Profile-ff69b4?style=flat-square&logo=github&logoColor=white" alt="Like Profile">
+  </a>
+</p>
 <hr>
 <br>
 
