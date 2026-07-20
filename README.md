@@ -91,7 +91,7 @@
 > * **리뷰 & 커뮤니티:** 영화 상세 정보 조회, 리뷰 CRUD, 좋아요(Heart) 기능 및 대댓글 시스템 구현
 > * **RESTful API:** 비동기(AJAX/Fetch) 통신을 활용한 화면 갱신 없는 실시간 댓글 및 좋아요 반영
 
-### 🎬 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 업그레이드 된 영화 리뷰 웹 서비스  
+### 🎥 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 업그레이드 된 영화 리뷰 웹 서비스  
 
 > **나의 주요 역할:** 영화 상세 페이지 UI/UX 수정, 영화 좋아요, 리뷰 기능 수정, 대댓글 기능(등록, 삭제) 추가  
 > **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL` `Dart`  
