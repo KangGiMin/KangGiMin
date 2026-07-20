@@ -18,6 +18,7 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
 </p>
 
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=007ACC&style=flat&logo=github" alt="Visitors" height="30">
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -25,9 +26,8 @@
     <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat&logo=github&color=007ACC&label=Profile%20Stars" alt="Profile Stars" height="30">
   </a>
 </p>
-
-<hr>
 <br>
+<hr>
 
 # 🚀 이력 🚀    
 
