@@ -1,11 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Profile Visitors" height="30">
-  &nbsp;
-  <a href="https://github.com/KangGiMin/KangGiMin/stargazers">
-    <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat-square&logo=github&color=11B48A&label=Profile%20Stars" alt="Profile Stars" height="30">
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="40">
 </p>
 
 <hr>
