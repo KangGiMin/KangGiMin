@@ -3,6 +3,7 @@
 <img width="100%" height="941" alt="ChatGPT Image 2026년 7월 21일 오전 04_41_50" src="https://github.com/user-attachments/assets/0983e2f2-08da-4e58-b5ea-db9f320acaac" />
 
 <br>
+<br>
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
   &nbsp;&nbsp;
