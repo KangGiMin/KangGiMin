@@ -75,8 +75,8 @@
 <br>
 
 ### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
-> **주요 역할:** 백엔드 개발 & API 설계  
-> **Tech Stack:** `Java` `Spring Boot` `MySQL` `REST API`  
+> **나의 주요 역할:** 게시글 CRUD 구현
+> **Tech Stack:** `Java` `Spring Boot` `MySQL`    
 > **Key Feature:** 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
 
 * [**ReviewPlus (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlusPRJ.git)
