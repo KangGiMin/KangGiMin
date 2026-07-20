@@ -98,7 +98,7 @@
 > * 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
 
 ### 🎬 [ReviewPlus](https://github.com/KangGiMin/ReviewPlusPRJ.git) — 영화 리뷰 웹 서비스
-> **나의 주요 역할:** 영화 상세 정보 페이지 UI/UX, 영화 좋아요, 리뷰 작성, 영화 상세 페이지 영화 정보 조회 기능 구현  
+> **나의 주요 역할:** 영화 상세 정보 페이지 UI/UX 설계, 영화 좋아요, 리뷰 작성, 영화 상세 정보 조회 기능 구현  
 > **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL`  
 > **Key Features:**  
 > * **회원 인증 & 권한 관리:** 로그인 사용자별 작성/수정/삭제 권한 분리 및 Security 적용
