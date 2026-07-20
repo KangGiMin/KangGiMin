@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,24,30&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
-<img width="100%" height="1024" alt="ChatGPT Image 2026년 7월 21일 오전 05_04_46" src="https://github.com/user-attachments/assets/0cad327f-fda7-4385-a2b1-381c2aae147e" />
+<img width="100%" height="50%" alt="ChatGPT Image 2026년 7월 21일 오전 05_04_46" src="https://github.com/user-attachments/assets/0cad327f-fda7-4385-a2b1-381c2aae147e" />
 
 <br>
 <br>
