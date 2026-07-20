@@ -5,11 +5,14 @@
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="40">
+  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="30">
+  &nbsp;
+  <a href="https://github.com/KangGiMin/KangGiMin/stargazers">
+    <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat-square&logo=github&color=11B48A&label=Profile%20Stars" alt="Profile Stars" height="30">
+  </a>
 </p>
-
-
 
 <hr>
 <br>
