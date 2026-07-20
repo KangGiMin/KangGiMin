@@ -1,8 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="40">
 </p>
+
+
 
 <hr>
 <br>
@@ -67,7 +74,11 @@
 # 📁 포트폴리오 📁  
 <br>
 
-* [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KangGiMin/Music-is-my-life.git)
+### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
+> **주요 역할:** 백엔드 개발 & API 설계  
+> **Tech Stack:** `Java` `Spring Boot` `MySQL` `REST API`  
+> **Key Feature:** 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
+
 * [**ReviewPlus (영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlusPRJ.git)
 * [**ReviewPlus 2.0 (업그레이드 된 영화 리뷰 웹 서비스)**](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git)
 <hr>
