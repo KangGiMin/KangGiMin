@@ -21,7 +21,7 @@
 <hr>
 <br>
 
-# 🔥 Stacks 🔥
+# 🔥 기술 스택 🔥
 
 <br>
 
@@ -63,7 +63,7 @@
 <hr>
 <br>
 
-# 📁 Portfolio 📁  
+# 📁 포트폴리오 📁  
 <br>
 
 * [**Music_is_my_life (사용자 감정 기반 음악 추천 플랫폼)**](https://github.com/KangGiMin/Music-is-my-life.git)
@@ -72,7 +72,7 @@
 <hr>
 <br>
 
-# 📝 Study Log 📝
+# 📝 트러블슈팅 기록 📝
 <br>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
