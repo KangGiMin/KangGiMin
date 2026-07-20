@@ -76,6 +76,7 @@
 **🔌 임베디드 시스템 | Embedded System 🔌**    
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 
 **🤝 협업 | Cooperation 🤝**  
