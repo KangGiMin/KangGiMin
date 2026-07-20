@@ -1,4 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Thank%20you%20for%20visit%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visitors-100%2B-11B48A?style=flat-square&logo=github&logoColor=white" alt="Visitors">
+</p>
 <hr>
 <br>
 
