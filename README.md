@@ -87,10 +87,16 @@
 > * **리뷰 & 커뮤니티:** 영화 상세 정보 조회, 리뷰 CRUD, 좋아요(Heart) 기능 및 대댓글 시스템 구현
 > * **RESTful API:** 비동기(AJAX/Fetch) 통신을 활용한 화면 갱신 없는 실시간 댓글 및 좋아요 반영
 
-### 🎬 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 업그레이드 된 영화 리뷰 웹 서비스
-> **나의 주요 역할:** 
-> **Tech Stack:** `Java` `Spring Boot` `MySQL` `Dart`   
-> **Key Feature:** 
+### 🎬 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 사용자 경험(UI/UX) 중심의 영화 리뷰 플랫폼 (버전 업그레이드)
+
+> **나의 주요 역할:** 풀스택 개발 (사용자 리포팅 기반 UI/UX 개선 & 백엔드 서비스 고도화)  
+> **Tech Stack:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL`  
+> **Key Features:**
+> * **웹 인터페이스 & 컴포넌트 고도화:** 사용자 시선 흐름에 맞춘 리뷰 액션 버튼(수정/삭제) 및 대댓글 UI 가로 배열 레이아웃 최적화
+> * **보안 및 접근 제어:** 세션 기반 세부 권한 검증 및 사용자 식별에 따른 버튼 동적 노출 로직 구현
+> * **실시간 데이터 동기화:** AJAX 비동기 요청을 통한 페이지 리로드 없는 반응형 좋아요 / 댓글 수 카운팅 및 화면 렌더링
+> * **데이터베이스 설계:** 영화, 회원, 리뷰, 대댓글, 좋아요 간 관계형 데이터베이스(RDBMS) 연동 구조 설계
+
 <hr>
 <br>
 
