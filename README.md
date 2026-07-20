@@ -78,7 +78,7 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
 <br>
 <br>
-프로젝트를 개발하며 직면한 에러의 트러블슈팅 과정을 기록한 공간입니다.
+개인 / 팀 프로젝트 작업을 진행하며 직면한 에러들을 해결해나가는 과정들을 담았습니다.
 <br>
 <hr>
 
