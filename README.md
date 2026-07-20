@@ -89,7 +89,7 @@
 
 ### 🎬 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 사용자 경험(UI/UX) 중심의 영화 리뷰 플랫폼 (버전 업그레이드)
 
-> **나의 주요 역할:** 풀스택 개발 (사용자 리포팅 기반 UI/UX 개선 & 백엔드 서비스 고도화)  
+> **나의 주요 역할:** 영화 상세 페이지 UI/UX 수정, 영화 좋아요, 리뷰 기능 수정, 대댓글 기능(등록, 삭제) 추가
 > **적용된 언어 및 기술:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL` `Dart` 
 > **Key Features:**
 > * **웹 인터페이스 & 컴포넌트 고도화:** 사용자 시선 흐름에 맞춘 리뷰 액션 버튼(수정/삭제) 및 대댓글 UI 가로 배열 레이아웃 최적화
