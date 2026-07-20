@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=11b48a&style=flat-square&logo=github" alt="Visitors" height="30">
-  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=007ACC&style=flat&logo=github" alt="Visitors" height="30">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/KangGiMin/KangGiMin/stargazers">
-    <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat-square&logo=github&color=11B48A&label=Profile%20Stars" alt="Profile Stars" height="30">
+    <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat&logo=github&color=007ACC&label=Profile%20Stars" alt="Profile Stars" height="30">
   </a>
 </p>
 
