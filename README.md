@@ -75,23 +75,24 @@
 <br>
 
 ### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
-> **나의 주요 역할:** 게시글 페이지 화면 설계 및 CRUD 기능 구현
-> **Tech Stack:** `Java` `Spring Boot` `MySQL`    
-> **Key Feature:** 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
+> **나의 주요 역할:** 게시글 페이지 화면 설계 및 CRUD 기능 구현  
+> **적용된 기술 스택:** `Java` `Spring Boot` `MySQL`   
+> **Key Feature:**  
+> * 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
 
 ### 🎬 [ReviewPlus](https://github.com/KangGiMin/ReviewPlusPRJ.git) — 영화 리뷰 웹 서비스
 > **나의 주요 역할:** 영화 상세 정보 페이지 UI/UX, 영화 좋아요, 리뷰 작성, 영화 상세 페이지 영화 정보 조회 기능 구현  
-> **적용된 언어 및 기술:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL`  
-> **Key Features:**
+> **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL`  
+> **Key Features:**  
 > * **회원 인증 & 권한 관리:** 로그인 사용자별 작성/수정/삭제 권한 분리 및 Security 적용
 > * **리뷰 & 커뮤니티:** 영화 상세 정보 조회, 리뷰 CRUD, 좋아요(Heart) 기능 및 대댓글 시스템 구현
 > * **RESTful API:** 비동기(AJAX/Fetch) 통신을 활용한 화면 갱신 없는 실시간 댓글 및 좋아요 반영
 
 ### 🎬 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 사용자 경험(UI/UX) 중심의 영화 리뷰 플랫폼 (버전 업그레이드)
 
-> **나의 주요 역할:** 영화 상세 페이지 UI/UX 수정, 영화 좋아요, 리뷰 기능 수정, 대댓글 기능(등록, 삭제) 추가
-> **적용된 언어 및 기술:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL` `Dart` 
-> **Key Features:**
+> **나의 주요 역할:** 영화 상세 페이지 UI/UX 수정, 영화 좋아요, 리뷰 기능 수정, 대댓글 기능(등록, 삭제) 추가  
+> **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL` `Dart`  
+> **Key Features:**  
 > * **웹 인터페이스 & 컴포넌트 고도화:** 사용자 시선 흐름에 맞춘 리뷰 액션 버튼(수정/삭제) 및 대댓글 UI 가로 배열 레이아웃 최적화
 > * **보안 및 접근 제어:** 세션 기반 세부 권한 검증 및 사용자 식별에 따른 버튼 동적 노출 로직 구현
 > * **실시간 데이터 동기화:** AJAX 비동기 요청을 통한 페이지 리로드 없는 반응형 좋아요 / 댓글 수 카운팅 및 화면 렌더링
