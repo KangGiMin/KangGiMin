@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<img width="75%" height="430" alt="Gemini_Generated_Image_inohdoinohdoinoh" src="https://github.com/user-attachments/assets/f746f3b0-162c-4a61-8d83-8ca0cf5aa8d3" />
+<img width="78%" height="120" alt="스크린샷 2026-07-21 201311" src="https://github.com/user-attachments/assets/60a58d86-45bb-4fba-b496-cee9bdcb1c6f" />
 
 
   <p align="center">
