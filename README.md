@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20GitHub!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <hr>
 
 <p align="center">
