@@ -2,7 +2,7 @@
 <hr>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="100%" alt="rkdrlals's GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="rkdrlals's GitHub Activity Graph" />
 </p>
 <hr>
 <br>
