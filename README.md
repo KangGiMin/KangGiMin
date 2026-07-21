@@ -1,14 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <br>
 <p align="center">
-
 <img width="80%" height="102" alt="스크린샷 2026-07-21 201751" src="https://github.com/user-attachments/assets/710c1400-f153-4b40-9ef8-5054747d2d4d" />
 
 <hr size="1" width="100%" color="#333333">
 <h4 align="center">Quick Navigation</h4>
 <hr size="1" width="100%" color="#333333">
-
-  <p align="center">
+<p align="center">
 <br>
 
 <p align="center">
