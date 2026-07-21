@@ -6,7 +6,9 @@
   <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square" height="50"></a>&nbsp;
   <a href="#-트러블슈팅-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square" height="50"></a>
   <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=방문횟수&color=red&style=flat&logo=github" alt="Visitors" height="50">
+
+<img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Profile%20View&color=007ACC&style=flat-square&logo=github" alt="Visitors" height="28">
+    
 </p>
 </p>
 
