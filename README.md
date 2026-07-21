@@ -8,7 +8,7 @@
 <p align="center">
   
 <p align="center">
-  <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🚀_이력-007ACC?style=flat-square" height="60"></a>&nbsp;
+  <a href="#-간단 자기소개-"><img src="https://img.shields.io/badge/바로가기-🙋‍♂️_간단 자기소개-007ACC?style=flat-square" height="60"></a>&nbsp;
   <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square" height="60"></a>&nbsp;
   <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square" height="60"></a>&nbsp;
   <a href="#-트러블슈팅-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square" height="60"></a>
