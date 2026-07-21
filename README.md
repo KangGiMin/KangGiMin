@@ -92,6 +92,8 @@
 > **적용된 기술 스택:** `Java` `Spring Boot` `MySQL`   
 > **Key Feature:**  
 > * 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
+> * 플로팅 버튼을 사용하여 원하는 감정을 선택하면 그에 어울리는 음악 자동 추천 기능 구현
+> * 글 조회수 표시 및 기본 정보(작성자, 작성 시간, 감정 등) 표시 로직 구현
 <br>
 
 ### 🎬 [ReviewPlus](https://github.com/KangGiMin/ReviewPlusPRJ.git) — 영화 리뷰 웹 서비스
