@@ -11,11 +11,6 @@
     
 </p>
 </p>
-
-<img width="100%" height="30%" alt="Gemini_Generated_Image_psxlsjpsxlsjpsxl" src="https://github.com/user-attachments/assets/272edded-12dc-4aef-bfd3-0dee6ecf458f" />
-
-<br>
-<br>
 <br>
 
 <p align="center">
