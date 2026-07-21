@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
-<img width="2488" height="554" alt="Gemini_Generated_Image_y0oqlry0oqlry0oq" src="https://github.com/user-attachments/assets/cc075204-dac6-44a4-a775-20ff78923b39" />
+<img width="60%" height="554" alt="Gemini_Generated_Image_y0oqlry0oqlry0oq" src="https://github.com/user-attachments/assets/cc075204-dac6-44a4-a775-20ff78923b39" />
 <br>
 
 <br>
