@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
+
 <p align="center">
   <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🚀_이력-007ACC?style=flat-square" height="50"></a>&nbsp;
   <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square" height="50"></a>&nbsp;
