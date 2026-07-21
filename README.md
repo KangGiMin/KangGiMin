@@ -20,6 +20,12 @@
 </p>
 <br>
 <hr>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="KangGiMin's GitHub Activity Graph" />
+</p>
+<hr>
+<br>
 <br>
 
 # 🚀 이력 🚀    
