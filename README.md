@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
-<br>
+
 <p align="center">
-<img width="80%" height="102" alt="스크린샷 2026-07-21 201751" src="https://github.com/user-attachments/assets/710c1400-f153-4b40-9ef8-5054747d2d4d" />
 
 <hr size="1" width="100%" color="#333333">
 <h4 align="center">👇 Quick Navigation 👇</h4>  
@@ -36,7 +35,18 @@
 <br>
 <br>
 
-# 🚀 이력 🚀    
+# 🙋‍♂️ 간단 자기소개 🙋‍♂️  
+
+### [ Intro ]
+<br>
+안녕하세요, 단순히 코드를 작성하는 것에 그치지 않고 동작 원리를 자세히 알고
+<br>
+예기치 못 한 오류를 마주하더라도 굴하지 않고 오류의 발생 원인부터 해결 과정까지 필사적으로 밟아 나가는 개발자입니다.
+<br>
+<br>
+
+### [ History ]
+<br>
 
 ### 🏫 그린컴퓨터아카데미 부산
 * **2025.06 ~ 2025.12**
@@ -51,6 +61,12 @@
 <hr>
 <br>
 
+<p align="center">
+<img width="75%" height="102" alt="스크린샷 2026-07-21 201751" src="https://github.com/user-attachments/assets/ce55d4f6-0fc8-4bab-b107-d08fcf0a9aa9" />
+<p align="center">
+<br>
+<br>
+  
 # 🔥 기술 스택 🔥
 
 <br>
