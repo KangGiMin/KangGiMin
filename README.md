@@ -1,27 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
-<hr size="1" width="100%" color="#333333">
-<h4 align="center">👇 Quick Navigation 👇</h4>  
-<hr size="1" width="100%" color="#333333">
-  
-<p align="center">
-  <a href="#-간단-자기소개-"><img src="https://img.shields.io/badge/바로가기-🙋‍♂️_간단자기소개-007ACC?style=flat-square" height="60"></a>&nbsp;
-  <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square" height="60"></a>&nbsp;
-  <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square" height="60"></a>&nbsp;
-  <a href="#-트러블슈팅-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square" height="60"></a>
-</p>
-
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Profile%20View&color=red&style=flat-square&logo=github" alt="Visitors" height="40"> 
 </p>
 
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
-</p>
 <br>
 <hr>
 <br>
@@ -151,6 +133,13 @@
 <br>
 <br>
 <hr>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
+</p>
 <br>
 
 <p align="center">
