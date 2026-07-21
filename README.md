@@ -5,6 +5,9 @@
   <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-트러블슈팅-기록-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square"></a>
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=007ACC&style=flat&logo=github" alt="Visitors" height="30">
+</p>
 </p>
 
 <img width="100%" height="50%" alt="ChatGPT Image 2026년 7월 21일 오전 05_04_46" src="https://github.com/user-attachments/assets/0cad327f-fda7-4385-a2b1-381c2aae147e" />
@@ -16,15 +19,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
   &nbsp;&nbsp;
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
-</p>
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=007ACC&style=flat&logo=github" alt="Visitors" height="30">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/KangGiMin/KangGiMin/stargazers">
-    <img src="https://img.shields.io/github/stars/KangGiMin/KangGiMin?style=flat&logo=github&color=007ACC&label=Profile%20Stars" alt="Profile Stars" height="30">
-  </a>
 </p>
 <br>
 <hr>
