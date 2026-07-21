@@ -27,11 +27,6 @@
 </p>
 <br>
 <hr>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="KangGiMin's GitHub Activity Graph" />
-</p>
-<hr>
 <br>
 <br>
 
@@ -157,4 +152,8 @@
 <br>
 개인 / 팀 프로젝트 작업을 진행하며 직면한 에러들을 해결해나가는 과정들을 담았습니다.
 <br>
+<hr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="KangGiMin's GitHub Activity Graph" />
+</p>
 <br>
