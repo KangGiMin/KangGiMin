@@ -106,5 +106,3 @@
 > * **모바일 환경 구현:** Flutter 기반의 Android Studio를 통해 모바일 환경으로도 구현
 <br>
 <hr>
-<br>
-<br>
