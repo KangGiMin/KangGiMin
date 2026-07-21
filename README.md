@@ -92,6 +92,7 @@
 > **적용된 기술 스택:** `Java` `Spring Boot` `MySQL`   
 > **Key Feature:**  
 > * 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
+<br>
 
 ### 🎬 [ReviewPlus](https://github.com/KangGiMin/ReviewPlusPRJ.git) — 영화 리뷰 웹 서비스
 > **나의 주요 역할:** 영화 상세 정보 페이지 UI/UX 설계, 영화 좋아요, 리뷰 작성, 영화 상세 정보 조회 기능 구현  
@@ -100,6 +101,7 @@
 > * **회원 인증 & 권한 관리:** 로그인 사용자별 작성/수정/삭제 권한 분리 및 Security 적용
 > * **리뷰 & 커뮤니티:** 영화 상세 정보 조회, 리뷰 CRUD, 좋아요(Heart) 기능 및 대댓글 시스템 구현
 > * **RESTful API:** 비동기(AJAX/Fetch) 통신을 활용한 화면 갱신 없는 실시간 댓글 및 좋아요 반영
+<br>
 
 ### 🎥 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 업그레이드 된 영화 리뷰 웹 서비스  
 
