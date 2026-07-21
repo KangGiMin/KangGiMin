@@ -4,6 +4,7 @@
 
 <hr size="1" width="100%" color="#333333">
 <h4 align="center">👇 Quick Navigation 👇</h4>  
+
 <hr size="1" width="100%" color="#333333">
 <p align="center">
   
@@ -52,7 +53,7 @@
 * **2026.03 ~ 2028.02**
 * **소프트웨어융합과** 재학 중 (프론트엔드, 백엔드, 딥러닝 등 학습)
 * **SNS 앱 개발 동아리**에 소속하여 백엔드 팀으로서 활동
-
+<br>
 <hr>
 <br>
 
