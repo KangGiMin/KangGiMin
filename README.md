@@ -1,10 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+<hr>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Profile%20View&color=red&style=flat-square&logo=github" alt="Visitors" height="40"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="KangGiMin's GitHub Activity Graph" />
 </p>
-
-<br>
 <hr>
 <br>
 <br>
@@ -142,7 +141,3 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
 </p>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="KangGiMin's GitHub Activity Graph" />
-</p>
