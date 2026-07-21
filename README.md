@@ -4,7 +4,7 @@
   <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🚀_이력-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square"></a>&nbsp;
-  <a href="#-트러블슈팅-기록-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square"></a>
+  <a href="#-트러블슈팅-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square"></a>
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KangGiMin&label=Visitors&color=red&style=flat&logo=github" alt="Visitors" height="30">
 </p>
