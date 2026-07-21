@@ -114,7 +114,7 @@
 <hr>
 <br>
 
-# 📝 트러블슈팅 기록 📝
+# 📝 트러블슈팅 📝
 <br>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
