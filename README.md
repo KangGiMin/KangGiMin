@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# 🙋‍♂️ 나에 대하여 🙋‍♂️  
+# 🙋‍♂️ About Me 🙋‍♂️  
 <br>
 
 ### [ 간단 소개 ]
@@ -41,7 +41,7 @@
 <br>
 <br>
   
-# 🔥 기술 스택 🔥
+# 🔥 Stacks 🔥
 
 <br>
 
@@ -88,7 +88,7 @@
 <hr>
 <br>
 
-# 📁 포트폴리오 📁  
+# 📁 Portfolio 📁  
 <br>
 
 ### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
@@ -123,7 +123,7 @@
 <hr>
 <br>
 
-# 📝 트러블슈팅 📝
+# 📝 Trouble Shooting 📝
 <br>
 
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
