@@ -24,10 +24,6 @@
 <hr>
 <br>
 
-<p align="center">
-<img width="75%" height="102" alt="스크린샷 2026-07-21 201751" src="https://github.com/user-attachments/assets/ce55d4f6-0fc8-4bab-b107-d08fcf0a9aa9" />
-<p align="center">
-<br>
 <br>
   
 # 🔥 Stacks 🔥
