@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 
 <p align="center">
-  <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🏫_이력-007ACC?style=flat-square"></a>&nbsp;
+  <a href="#-이력-"><img src="https://img.shields.io/badge/바로가기-🚀_이력-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-기술-스택-"><img src="https://img.shields.io/badge/바로가기-🔥_기술스택-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-포트폴리오-"><img src="https://img.shields.io/badge/바로가기-📁_포트폴리오-007ACC?style=flat-square"></a>&nbsp;
   <a href="#-트러블슈팅-기록-"><img src="https://img.shields.io/badge/바로가기-📝_트러블슈팅-007ACC?style=flat-square"></a>
