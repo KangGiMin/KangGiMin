@@ -108,18 +108,6 @@
 <hr>
 <br>
 
-# 📝 Trouble Shooting 📝
-<br>
-
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@gimingng2311/posts) 
-<br>
-<br>
-개인 / 팀 프로젝트 작업을 진행하며 직면한 에러들을 해결해나가는 과정들을 담았습니다.
-<br>
-<br>
-<hr>
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
   &nbsp;&nbsp;
