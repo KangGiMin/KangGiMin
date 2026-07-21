@@ -107,10 +107,4 @@
 <br>
 <hr>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark&bg_color=0d1117&text_color=c9d1d9&icon_color=11b48a&title_color=11b48a" alt="GitHub Stats" height="150">
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark&bg_color=0d1117&text_color=c9d1d9&title_color=11b48a" alt="Top Languages" height="150">
-</p>
 <br>
