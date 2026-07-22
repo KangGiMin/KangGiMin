@@ -88,7 +88,7 @@
 <hr>
 <br>
 
-# 📁 Project Feature 📁  
+# 📁 Project Featured 📁  
 <br>
 
 ### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
