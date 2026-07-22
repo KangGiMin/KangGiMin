@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E1BEE7,B3E5FC&fontColor=333333&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontAlign=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=gradient&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontAlign=50&fontAlignY=50" width="100%" />
 <br>
 
 ### 🎓 한국폴리텍대학교 부산캠퍼스
