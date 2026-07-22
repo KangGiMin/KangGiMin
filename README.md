@@ -2,11 +2,10 @@
 <hr>
 <br>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=radial)](https://github.com/KangGiMin/github-readme-stats)
-
-<!-- 📈 Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="85%" alt="KangGiMin's GitHub Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkdrlals&theme=radial" width="48%" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="48%" />
 </p>
 <hr>
 <br>
