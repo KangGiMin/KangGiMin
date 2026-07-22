@@ -3,8 +3,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkdrlals&theme=radial" width="49%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkdrlals&theme=radial" width="500" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="500" />
 </p>
 
 # 🚀 Organization Experience 🚀  
