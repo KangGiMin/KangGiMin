@@ -2,10 +2,7 @@
 <hr>
 <br>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=tokyonight&rank_icon=circle" /></a>
-  <a href="https://github.com/KangGiMin/github-readme-streak-stats"><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KangGiMin&theme=tokyonight" /></a>
-</p>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=radial)](https://github.com/KangGiMin/github-readme-stats)
 
 <!-- 📈 Activity Graph -->
 <p align="center">
