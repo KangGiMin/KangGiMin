@@ -8,7 +8,7 @@
 <br>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=nightSky&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontAlign=50&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=E1BEE7,B3E5FC&fontColor=333333&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontAlign=50&fontAlignY=50" width="100%" />
 <br>
 
 ### 🎓 한국폴리텍대학교 부산캠퍼스
@@ -87,7 +87,7 @@
 <hr>
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=10,20&height=100&section=header&text=Project%20Feature&fontSize=35&fontAlign=50&fontAlignY=50&desc=&descAlign=50&descAlignY=60" width="80%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFF176&fontColor=333333&height=100&section=header&text=GitHub%20Stats&fontSize=35&fontAlign=50&fontAlignY=50" width="80%" />
 <br>
 
 ### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
