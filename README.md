@@ -8,7 +8,7 @@
 <br>
 <br>
 
-# 🚀 History 🚀  
+# 🚀 Organization History 🚀  
 <br>
 
 ### 🏫 그린컴퓨터아카데미 부산
