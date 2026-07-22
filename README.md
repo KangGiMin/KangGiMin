@@ -4,11 +4,8 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rkdrlals&theme=radial" width="48%" />
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="48%" />
 </p>
-<hr>
-<br>
 
 # 🚀 Organization Experience 🚀  
 <br>
