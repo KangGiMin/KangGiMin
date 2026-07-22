@@ -5,6 +5,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" width="80%" />
 </p>
+<br>
+<hr>
 
 # 🚀 Organization Experience 🚀  
 <br>
