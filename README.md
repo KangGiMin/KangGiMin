@@ -1,11 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=KangGiMin's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <hr>
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="100%" alt="rkdrlals's GitHub Activity Graph" />
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img height="165em" src="https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=tokyonight&rank_icon=circle" /></a>
+  <a href="https://github.com/jonasbuerger/github-readme-streak-stats"><img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=KangGiMin&theme=tokyonight" /></a>
+</p>
+
+<!-- 📈 Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="85%" alt="KangGiMin's GitHub Activity Graph" />
 </p>
 <hr>
-<br>
 <br>
 
 # 🚀 Organization Experience 🚀  
