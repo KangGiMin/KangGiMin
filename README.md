@@ -8,18 +8,18 @@
 # 📊 GitHub Stats 📊  
 <br>
 
-<!-- 📌 2x2 카드 정렬 테이블 -->
+<!-- 📌 2x2 카드 정렬 테이블 (안정화 미러 API 서버 적용) -->
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <!-- 1행: Stats 카드 & Streak 카드 -->
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rkdrlals&show_icons=true&theme=tokyonight&rank_icon=circle" />
+        <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KangGiMin&show_icons=true&theme=tokyonight&rank_icon=circle&include_all_commits=true" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/jonasbuerger/github-readme-streak-stats">
-        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=rkdrlals&theme=tokyonight" />
+        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=KangGiMin&theme=tokyonight" />
       </a>
     </td>
   </tr>
@@ -27,16 +27,17 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkdrlals&layout=compact&theme=tokyonight" />
+        <img width="98%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=tokyonight" />
       </a>
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ashutosh00712/github-readme-activity-graph">
-        <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" />
+        <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" />
       </a>
     </td>
   </tr>
 </table>
+
 <br>
 <br>
 
