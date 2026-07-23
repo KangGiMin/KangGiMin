@@ -145,7 +145,7 @@
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Ashutosh00712/github-readme-activity-graph">
-        <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=tokyonight&hide_border=true&area=true" />
+        <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=react-dark&hide_border=true&area=true" />
       </a>
     </td>
   </tr>
