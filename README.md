@@ -5,7 +5,7 @@
 <!-- 📌 상단 제목 & 구분선 -->
 <br>
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats 📊  
 <br>
 
 <!-- 📌 2x2 카드 정렬 테이블 -->
