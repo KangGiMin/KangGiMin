@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=KangGiMin's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <hr>
 <br>
-<hr>
 <br>
 
 # 🚀 Organization Experience 🚀  
