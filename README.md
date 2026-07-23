@@ -1,11 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=KangGiMin's%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <hr>
 <br>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KangGiMin&theme=react-dark&hide_border=true&area=true" width="90%" />
-</p>
-<br>
 <hr>
 <br>
 
@@ -121,3 +116,38 @@
 > * **모바일 환경 구현:** Flutter 기반의 Android Studio를 통해 모바일 환경으로도 구현
 <br>
 <hr>
+
+<!-- 📌 상단 제목 & 구분선 -->
+## 📊 GitHub Stats
+<hr>
+<br>
+
+<!-- 📌 2x2 카드 정렬 테이블 -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <!-- 1행: Stats 카드 & Streak 카드 -->
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rkdrlals&show_icons=true&theme=tokyonight&rank_icon=circle" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/jonasbuerger/github-readme-streak-stats">
+        <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=rkdrlals&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <!-- 2행: Most Used Languages 카드 & Activity Graph 카드 -->
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img width="98%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rkdrlals&layout=compact&theme=tokyonight" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Ashutosh00712/github-readme-activity-graph">
+        <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rkdrlals&theme=tokyonight&hide_border=true&area=true" />
+      </a>
+    </td>
+  </tr>
+</table>
