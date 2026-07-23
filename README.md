@@ -115,10 +115,10 @@
 > * **모바일 환경 구현:** Flutter 기반의 Android Studio를 통해 모바일 환경으로도 구현
 <br>
 <hr>
+<br>
 
 <!-- 📌 상단 제목 & 구분선 -->
-## 📊 GitHub Stats
-<hr>
+# 📊 GitHub Stats
 <br>
 
 <!-- 📌 2x2 카드 정렬 테이블 -->
