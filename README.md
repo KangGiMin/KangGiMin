@@ -99,7 +99,7 @@
 
 <br>
 
-**🗄️ 서버 & 데이터베이스 | Server & DataBase 🗄️**  
+**🗄️ 데이터베이스 | DataBase 🗄️**  
 <br>
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
