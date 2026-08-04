@@ -124,13 +124,6 @@
 
 <br>
 
-**📋 데이터 포맷 & 구문 | Data Format & Syntax 📋**  
-<br>
-![JSX](https://img.shields.io/badge/JSX-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-
-<br>
-
 
 **🛠️ 도구 | Tools 🛠️**  
 <br>
