@@ -6,7 +6,7 @@
 <br>
   
 <!-- 불 이모지 스타일 적용 예시 -->
-# 🔥 Tech Stacks 🔥  
+# 🔥 My Skills 🔥  
 
 <br>
 
