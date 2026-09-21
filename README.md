@@ -91,38 +91,3 @@
 
 <hr>
 <br>
-
-# 📁 Project Featured 📁  
-<br>
-
-### 🎵 [Music_is_my_life](https://github.com/KangGiMin/Music-is-my-life.git) — 사용자 감정 기반 음악 추천 플랫폼
-> **나의 주요 역할:** 게시글 페이지 화면 설계 및 CRUD 기능 구현  
-> **적용된 기술 스택:** `Java` `Spring Boot` `MySQL`   
-> **Key Feature:**  
-> * 사용자 감정 상태 데이터 파싱 및 가중치 기반 음악 추천 알고리즘 구현
-> * 플로팅 버튼을 사용하여 원하는 감정을 선택하면 그에 어울리는 음악 자동 추천 기능 구현
-> * 글 조회수, 좋아요 표시(AJAX) 및 기본 정보(작성자, 작성 시간, 감정 등) 표시 로직 구현
-<br>
-
-### 🎬 [ReviewPlus](https://github.com/KangGiMin/ReviewPlusPRJ.git) — 영화 리뷰 웹 서비스
-> **나의 주요 역할:** 영화 상세 정보 페이지 UI/UX 설계, 영화 좋아요, 리뷰 작성, 영화 상세 정보 조회 기능 구현  
-> **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL`  
-> **Key Features:**  
-> * **회원 인증 & 권한 관리:** 로그인 사용자별 작성/수정/삭제 권한 분리 및 Security 적용
-> * **리뷰 & 커뮤니티:** 영화 상세 정보 조회, 리뷰 CRUD, 좋아요(Heart) 기능 및 대댓글 시스템 구현
-> * **RESTful API:** 비동기(AJAX/Fetch) 통신을 활용한 화면 갱신 없는 실시간 댓글 및 좋아요 반영
-<br>
-
-### 🎥 [ReviewPlus 2.0](https://github.com/KangGiMin/ReviewPlus2.0PRJ.git) — 업그레이드 된 영화 리뷰 웹 서비스  
-
-> **나의 주요 역할:** 영화 상세 페이지 UI/UX 수정, 영화 좋아요, 리뷰 기능 수정, 대댓글 기능(등록, 삭제) 추가  
-> **적용된 기술 스택:** `Java` `Spring Boot` `JSP/HTML/CSS` `JavaScript` `MySQL` `Dart`  
-> **Key Features:**
-> * **웹 인터페이스 & 컴포넌트 고도화:** 사용자 시선 흐름에 맞춘 리뷰 액션 버튼(수정/삭제) 및 대댓글 UI 가로 배열 레이아웃 최적화
-> * **보안 및 접근 제어:** 세션 기반 세부 권한 검증 및 사용자 식별에 따른 버튼 동적 노출 로직 구현
-> * **실시간 데이터 동기화:** AJAX 비동기 요청을 통한 페이지 리로드 없는 반응형 좋아요 / 댓글 수 카운팅 및 화면 렌더링
-> * **데이터베이스 설계:** 영화, 회원, 리뷰, 대댓글, 좋아요 간 관계형 데이터베이스(RDBMS) 연동 구조 설계
-> * **모바일 환경 구현:** Flutter 기반의 Android Studio를 통해 모바일 환경으로도 구현
-<br>
-<hr>
-<br>
