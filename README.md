@@ -38,7 +38,7 @@
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-[![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84)](https://developer.android.com/studio)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-181818?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
 
 <br>
 <br>
