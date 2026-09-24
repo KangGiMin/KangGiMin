@@ -18,6 +18,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 <br>
+<br>
 
 **⚙️ 백엔드 | Backend ⚙️**  
 <br>
@@ -31,6 +32,7 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 
 <br>
+<br>
 
 **📱 모바일 앱 | Mobile App 📱**     
 <br>
@@ -38,6 +40,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=for-the-badge&logo=android-studio&logoColor=3DDC84)](https://developer.android.com/studio)
 
+<br>
 <br>
 
 **🗄️ 데이터베이스 | DataBase 🗄️**  
@@ -47,12 +50,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 <br>
+<br>
 
 **✔️ 인증 | Authentication ✔️**  
 <br>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
+<br>
 <br>
 
 
@@ -64,7 +69,7 @@
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
 
 <br>
-
+<br>
 
 **🛠️ 도구 | Tools 🛠️**  
 <br>
@@ -77,6 +82,6 @@
 ![Vite.js](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 <br>
-
+<br>
 <hr>
 <br>
