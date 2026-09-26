@@ -1,12 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <hr>
-
-# 📫 Contact    
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:gimingng2311@gmail.com)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](mailto:gimingng2311@naver.com)
-
-<hr>
 <br>
 
 # 👤 About Me 👤    
