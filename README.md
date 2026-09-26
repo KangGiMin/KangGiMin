@@ -1,11 +1,20 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <br>
 
-<!-- 방문자 수 배지 -->
-![Visitors](https://komarev.com/ghpvc/?username=KangGiMin&color=0969da&style=flat-square&label=VIEWS)
+<!-- 1. 쪼매난 배지 구역 (방문자 수, 이메일) -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=KangGiMin&color=0969da&style=flat-square&label=VIEWS" alt="Visitors" />
+  <a href="mailto:gimingng2311@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<!-- Gmail 연락처 배지 -->
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gimingng2311@gmail.com)
+<!-- 2. 덩치 큰 깃허브 스탯 카드 구역 (엑박 방지용 img 태그 적용) -->
+<p>
+  <a href="https://github.com/KangGiMin">
+    <img src="https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=transparent&rank_icon=github" alt="GitHub Stats" />
+  </a>
+</p>
 
 <hr>
 <br>
