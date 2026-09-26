@@ -1,4 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+<br>
+
+<!-- 방문자 수 배지 -->
+![Visitors](https://komarev.com/ghpvc/?username=KangGiMin&color=0969da&style=flat-square&label=VIEWS)
+
+<!-- Gmail 연락처 배지 -->
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gimingng2311@gmail.com)
+
 <hr>
 <br>
 
