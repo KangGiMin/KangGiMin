@@ -9,9 +9,9 @@
       <th>🗄️ DB & App 📱</th>
     </tr>
     <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=react,js,ts" alt="Frontend Skills" /></td>
-      <td><img src="https://skillicons.dev/icons?i=py,nodejs,fastapi" alt="Backend Skills" /></td>
-      <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,flutter" alt="DB & App Skills" /></td>
+      <td><img src="https://skillicons.dev/icons?i=react,js,ts" width="200" alt="Frontend Skills" /></td>
+      <td><img src="https://skillicons.dev/icons?i=py,nodejs,fastapi" width="200" alt="Backend Skills" /></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,flutter" width="200" alt="DB & App Skills" /></td>
     </tr>
   </table>
 </div>
