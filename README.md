@@ -1,5 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react,js,ts,py,nodejs,fastapi,postgres,mongodb,flutter" alt="My Skills" />
+      </td>
+    </tr>
+  </table>
+</div>
+<br>
 <hr>
 
 <br>
