@@ -1,26 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20Profile&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=My+Main+Tech+Stack;" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
-  <table>
-    <tr align="center">
-      <th>🎨 Frontend 🎨</th>
-      <th>⚙️ Backend ⚙️</th>
-      <th>🗄️ DB & App 📱</th>
-    </tr>
-    <tr align="center">
-      <td><img src="https://skillicons.dev/icons?i=react,js,ts" width="200" alt="Frontend Skills" /></td>
-      <td><img src="https://skillicons.dev/icons?i=py,nodejs,fastapi" width="200" alt="Backend Skills" /></td>
-      <td><img src="https://skillicons.dev/icons?i=postgres,mongodb,flutter" width="200" alt="DB & App Skills" /></td>
-    </tr>
-  </table>
-</div>
 <br>
 <hr>
 
@@ -44,82 +24,40 @@
 <!-- 불 이모지 스타일 적용 예시 -->
 # 🔥 All My Skills 🔥  
 
-<br>
-<br>
-
-**🎨 프론트엔드 | Frontend 🎨**        
+<br>   
 
 ![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Zustand](https://img.shields.io/badge/Zustand-8B5A2B?style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-
 <br>
-<br>
-
-**⚙️ 백엔드 | Backend ⚙️**  
-<br>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-<br>
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
-
-<br>
-<br>
-
-**📱 모바일 앱 | Mobile App 📱**     
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-181818?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
-
 <br>
-<br>
-
-**🗄️ 데이터베이스 | DataBase 🗄️**  
-
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<br>
-<br>
-
-**✔️ 인증 | Authentication ✔️**  
 <br>
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
-<br>
-<br>
-
-
-**🔌 임베디드 시스템 | Embedded System 🔌**    
 <br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white)](https://isocpp.org/)
 <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
-
-<br>
-<br>
-
-**🛠️ 도구 | Tools 🛠️**  
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-<br>
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vite.js](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-<br>
-<br>
 <hr>
 
 <picture>
