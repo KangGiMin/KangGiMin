@@ -40,7 +40,7 @@
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-181818?style=for-the-badge&logo=android-studio&logoColor=3DDC84)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
 <br>
 <br>
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -48,7 +48,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 <br>
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![JWT](https://img.shields.io/badge/JWT-%23FB015B.svg?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 <br>
 <br>
