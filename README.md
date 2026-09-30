@@ -37,6 +37,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white)](https://isocpp.org/)
 <br>
 <br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -50,12 +53,7 @@
 <br>
 ![JWT](https://img.shields.io/badge/JWT-%23FB015B.svg?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-<br>
-<br>
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white">
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2++&logoColor=white)](https://isocpp.org/)
-<img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white">
+
 <br>
 
 <hr>
