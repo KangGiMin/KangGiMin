@@ -6,7 +6,7 @@
 
 <br>
 
-# 👤 About Me 👤    
+# 👤 About Me  
 
 <br>
 
@@ -21,8 +21,7 @@
 <hr>
 <br>
 
-<!-- 불 이모지 스타일 적용 예시 -->
-# 🔥 All My Skills 🔥  
+# 🔥 My Skills  
 
 <br>   
 
