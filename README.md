@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FF3B30,50:FFCC00,100:007AFF&height=200&section=header&text=Welcome%20to%20my%20GitHub&fontSize=50&fontColor=FFFFFF&animation=fadeIn)
+<img width="2172" height="724" alt="밤의 코딩 공간과 도시 풍경" src="https://github.com/user-attachments/assets/32a976ac-26f0-4663-8815-4e076f2ea252" />
+
 <br>
 
 <br>
