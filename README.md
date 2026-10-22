@@ -26,7 +26,7 @@
 
 <br>
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🎵 [MusicIsMyLife](https://github.com/KangGiMin/Music-is-my-life)
 > **사용자의 감정을 기반으로 음악을 추천받고 소통하는 커뮤니티 플랫폼**
