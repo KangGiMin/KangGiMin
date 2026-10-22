@@ -44,7 +44,7 @@
 <br>
 <br>
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+[![Android Studio](https://img.shields.io/badge/Android%20Studio-%232E7D32?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 <br>
 <br>
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
