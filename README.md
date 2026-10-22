@@ -1,9 +1,3 @@
-<img width="2172" height="724" alt="밤의 코딩 공간과 도시 풍경" src="https://github.com/user-attachments/assets/32a976ac-26f0-4663-8815-4e076f2ea252" />
-
-<br>
-
-<br>
-
 # 👤 About Me  
 
 <br>
