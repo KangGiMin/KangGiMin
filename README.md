@@ -1,3 +1,9 @@
+<div align="center">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=dark" height="165" alt="KangGiMin's GitHub Stats" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; │ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=dark" height="165" alt="KangGiMin's Top Languages" />
+</div>
+
 <br>
 
 # 👤 About Me  
