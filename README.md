@@ -20,7 +20,7 @@
 <br>
 
 
-# 🔥 My Skills  
+# 🔥 Main Stacks  
 
 <br>   
 
