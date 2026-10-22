@@ -3,9 +3,6 @@
 <br>
 
 <br>
-<hr>
-
-<br>
 
 # 👤 About Me  
 
@@ -21,8 +18,7 @@
 무엇보다 사용자 관점에서 깊이 고민하는 개발자가 되기 위해 꾸준히 기록하고 성장 중입니다.
 
 <br>
-<hr>
-<br>
+
 
 # 🔥 My Skills  
 
@@ -55,8 +51,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23ff0000.svg?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 
 <br>
-
-<hr>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangGiMin/KangGiMin/output/github-contribution-grid-snake-dark.svg">
