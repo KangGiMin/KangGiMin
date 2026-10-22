@@ -28,7 +28,7 @@
 
 # 🚀 Featured Projects
 
-## 🎵 MusicIsMyLife
+### 🎵 MusicIsMyLife
 > **사용자의 감정을 기반으로 음악을 추천받고 소통하는 커뮤니티 플랫폼**
 - **나의 역할:** 게시글 CRUD (생성/조회/수정/삭제) 기능 구현
 - **기술 스택:** `Java` `Spring Boot` `Oracle DB` `HTML/CSS/JavaScript`
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎬 ReviewPlus 2.0
+### 🎬 ReviewPlus 2.0
 > **사용자들이 최신 트렌드의 영화들을 확인하고 댓글을 통해 자유롭게 소통을 할 수 있는 영화 리뷰 웹 서비스**
 - **나의 역할:** 영화 상세 정보 페이지 구현, 영화 좋아요 기능 및 댓글 CRUD 구현, 어두운 화면 테마로 변경
 - **기술 스택:** `Java` `Spring Boot` `Oracle DB` `HTML/CSS/JavaScript`
