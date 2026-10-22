@@ -35,7 +35,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404D59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-[![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&style=for-the-badge&logoColor=white)
 
 ![MSSQL](https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
