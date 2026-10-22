@@ -46,7 +46,6 @@
 
 ![Expo](https://img.shields.io/badge/expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=white)
 
-<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangGiMin/KangGiMin/output/github-contribution-grid-snake-dark.svg">
