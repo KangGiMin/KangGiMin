@@ -14,7 +14,7 @@
 
 <br>
 
-# 🔥 Main Stacks  
+# ✨ Main Stacks  
 <br>
 
 | Category | Technologies |
