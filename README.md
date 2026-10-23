@@ -50,7 +50,7 @@
 <br>
 <br>
 
-- **나의 역할:** 영화 상세 정보 페이지 구현, 영화 좋아요 기능 및 댓글 CRUD 구현, 어두운 화면 테마로 변경
+- **나의 역할:** 영화 상세 정보 페이지 구현, 영화 좋아요 기능 및 댓글 CRUD 구현, 어두운 화면 테마로 적용
 - **기술 스택:** `Java` `Spring Boot` `Oracle DB` `HTML/CSS/JavaScript`
 - **프로젝트 상세:** [바로가기](https://github.com/KangGiMin/ReviewPlus2.0)
 
