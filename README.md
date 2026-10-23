@@ -44,7 +44,7 @@
 ---
 
 ### 🎬 ReviewPlus 2.0
-> **사용자들이 최신 트렌드의 영화들을 확인하고 댓글을 통해 자유롭게 소통을 할 수 있는 영화 리뷰 웹 서비스**
+> **사용자들이 최신 트렌드의 영화들을 확인하고 댓글을 통해 자유롭게 소통을 할 수 있는 영화 리뷰 플랫폼**
 <br>
 <img width="538" height="730" alt="image" src="https://github.com/user-attachments/assets/9f8dff29-1548-433e-a088-a4b6e44f395d" />
 <br>
