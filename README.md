@@ -2,7 +2,7 @@
 # 👤 About Me  
 
 
-### 🎓 Education
+### Education
 | 기간 | 분류 | 소속 및 과정명 |
 | :---: | :---: | :--- |
 | 2025-06-10 ~ 2025-12-01 | **Bootcamp** | Java & Spring Boot 크로스 플랫폼 융합 응용 SW 개발자 양성과정 |
