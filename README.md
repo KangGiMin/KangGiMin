@@ -38,7 +38,7 @@
 
 # 🚀 Featured Projects
 
-### 🎵 Music Is My Life
+### Music Is My Life
 > **사용자의 감정을 기반으로 음악을 추천받고 소통하는 커뮤니티 플랫폼**
 <br>
 <img width="566" height="492" alt="스크린샷 2026-10-23 192131" src="https://github.com/user-attachments/assets/f21464e1-3479-4043-8478-fd536c13cf44" />
@@ -52,7 +52,7 @@
 
 ---
 
-### 🎬 ReviewPlus 2.0
+### ReviewPlus 2.0
 > **사용자들이 최신 트렌드의 영화들을 확인하고 댓글을 통해 자유롭게 소통을 할 수 있는 영화 리뷰 플랫폼**
 <br>
 <img width="538" height="730" alt="image" src="https://github.com/user-attachments/assets/9f8dff29-1548-433e-a088-a4b6e44f395d" />
