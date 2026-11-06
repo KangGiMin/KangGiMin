@@ -1,13 +1,12 @@
 
 # 👤 About Me  
 
-<br>
 
 ### 🎓 Education
 | 기간 | 분류 | 소속 및 과정명 |
 | :---: | :---: | :--- |
-| 202X.XX - 현재 | **Bootcamp** | Java & Spring Boot 크로스 플랫폼 융합 응용 SW 개발자 양성과정 |
-| 202X.XX - 202X.XX | **University**| 한국폴리텍대학교 부산캠퍼스 소프트웨어융합과 |
+| 2025-06-10 ~ 2025-12-01 | **Bootcamp** | Java & Spring Boot 크로스 플랫폼 융합 응용 SW 개발자 양성과정 |
+| 2026-03-03 ~ 현재 | **University**| 한국폴리텍대학교 부산캠퍼스 소프트웨어융합과 |
 
 <br>
 
