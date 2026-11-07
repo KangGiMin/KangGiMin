@@ -23,7 +23,7 @@
 
 <br>
 
-# ✨ Main Stacks  
+# ✨ Tech Stacks  
 <br>
 
 | 카테고리 | 기술 |
