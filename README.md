@@ -63,6 +63,23 @@
 - **기술 스택:** `Java` `Spring Boot` `Oracle DB` `HTML/CSS/JavaScript`
 - **프로젝트 상세:** [바로가기](https://github.com/KangGiMin/ReviewPlus2.0)
 
+  <br>
+
+### Don't forget   
+> **할 일, 반복 루틴, 일기를 한곳에서 관리하며 하루를 돌아보는 개인 일정 관리 서비스**
+<br>
+<img width="1792" height="862" alt="스크린샷 2026-11-11 162015" src="https://github.com/user-attachments/assets/5f199ca3-1c84-4458-acfa-cad77bc88769" />
+
+<br>
+<br>
+
+- **주요 특징**
+  - **크로스 플랫폼 연동:** 하나의 Express API와 MongoDB를 기반으로 React 웹과 React Native(Expo) 모바일 앱에서 동일한 데이터 실시간 연동
+  - **게이미피케이션 적용:** 완료 기록 기반의 '티어' 및 '명예의 전당' 시스템으로 사용자 동기 부여
+  - **스마트 알림 및 스케줄링:** 서버 스케줄러를 통한 반복 루틴 자동 생성 및 브라우저/모바일 푸시 알림 지원
+- **Tech Stack:** `React`, `React Native(Expo)`, `Node.js(Express)`, `MongoDB`, `Firebase`
+- **프로젝트 상세:** [바로가기](https://github.com/KangGiMin/Don-t-forget)
+
 <!-- 잔디 먹는 뱀 -->
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KangGiMin/KangGiMin/output/github-contribution-grid-snake-dark.svg">
