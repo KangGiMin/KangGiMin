@@ -63,7 +63,7 @@
 - **기술 스택:** `Java` `Spring Boot` `Oracle DB` `HTML/CSS/JavaScript`
 - **프로젝트 상세:** [바로가기](https://github.com/KangGiMin/ReviewPlus2.0)
 
-  <br>
+---
 
 ### Don't forget   
 > **할 일, 반복 루틴, 일기를 한곳에서 관리하며 하루를 돌아보는 개인 일정 관리 서비스**
