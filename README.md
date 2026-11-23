@@ -3,4 +3,21 @@
 
 ---
 
+<br>
+
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=KangGiMin&show_icons=true&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KangGiMin&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Top Languages"
+  />
+</div>
+
+
 #### 포트폴리오: https://kanggimin.github.io/Portfolio/
